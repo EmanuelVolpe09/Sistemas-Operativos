@@ -12,6 +12,49 @@
 
 Debes tener Windows 7 SP1 o Windows 8.1 Update para poder actualizar.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Windows 10
+✔ = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
+
+D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
+
+                 | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
+| Home |		                                ✔	                    ✔	                      ✔	
+| Pro |	                    D		                                  ✔	                      ✔	                      ✔
+| Education |					                                                                                            D
+| Enterprise |			                                                                     	✔	
+
+Windows 8.1 
+
+✔ = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
+
+D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
+
+Windows 10 Home	Windows 10 Pro	Windows 10 Pro Education	Windows 10 Education	Windows 10 Enterprise
+(Core)	✔	✔	✔	✔	
+Conectado	✔	✔	✔	✔	
+Pro	D	✔	✔	✔	✔
+Pro Student	D	✔	✔	✔	✔
+Pro WMC	D	✔	✔	✔	✔
+Enterprise				✔	✔
+Embedded Industry					✔
+Windows 7
+✔ = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
+
+D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
+
+Windows 10 Home	Windows 10 Pro	Windows 10 Pro Education	Windows 10 Education	Windows 10 Enterprise
+Starter	✔	✔	✔	✔	
+Home Basic	✔	✔	✔	✔	
+Home Premium	✔	✔	✔	✔	
+Professional	D	✔	✔	✔	✔
+Ultimate	D	✔	✔	✔	✔
+Enterprise				✔	✔
+
 ## 3) Sobre el espacio recomendado por VirtualBox
 
 VirtualBox sugiere 50 GB para la instalación del SO, pero Microsoft nos dice que lo mínimo es entre 16 y 20 GB. Eso es por que lo que sugiere VirtualBox son los requisitos recomendados, para una buena función del sistema. Si lo instalamos con los requisitos mínimos de Windows 10, va a correr pero mal por la falta de espacio, ya que apenas va a tener espacio para el sistema.
