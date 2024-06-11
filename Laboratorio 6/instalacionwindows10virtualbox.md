@@ -17,44 +17,10 @@ Debes tener Windows 7 SP1 o Windows 8.1 Update para poder actualizar.
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-Windows 10
-✔ = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
-
-D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
-
-|                 | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise|
------------------------------------------------------------------------------------------------------------------------------ |
-| Home |		                                ✔	                    ✔	                      ✔	                                  |
-| Pro |	                    D		                                  ✔	                      ✔	                      ✔           |
-| Education |					                                                                                            D           |
-| Enterprise |			                                                                     	✔	                                  |
-
-Windows 8.1 
-
-✔ = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
-
-D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
-
-Windows 10 Home	Windows 10 Pro	Windows 10 Pro Education	Windows 10 Education	Windows 10 Enterprise
-(Core)	✔	✔	✔	✔	
-Conectado	✔	✔	✔	✔	
-Pro	D	✔	✔	✔	✔
-Pro Student	D	✔	✔	✔	✔
-Pro WMC	D	✔	✔	✔	✔
-Enterprise				✔	✔
-Embedded Industry					✔
-Windows 7
-✔ = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
-
-D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
-
-Windows 10 Home	Windows 10 Pro	Windows 10 Pro Education	Windows 10 Education	Windows 10 Enterprise
-Starter	✔	✔	✔	✔	
-Home Basic	✔	✔	✔	✔	
-Home Premium	✔	✔	✔	✔	
-Professional	D	✔	✔	✔	✔
-Ultimate	D	✔	✔	✔	✔
-Enterprise				✔	✔
+|  | Windows 10 hHome | Windows 10 pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 ## 3) Sobre el espacio recomendado por VirtualBox
 
