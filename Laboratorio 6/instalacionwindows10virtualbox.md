@@ -12,10 +12,11 @@
 
 Debes tener Windows 7 SP1 o Windows 8.1 Update para poder actualizar.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+V = se admite la actualización completa y se incluyen los datos personales, la configuración y las aplicaciones.
+
+D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
+
+## WINDOWS 10
 
 |            | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
 | ---------- | --------------- | -------------- | ------------------------ | -------------------- | --------------------- |
@@ -23,6 +24,29 @@ Debes tener Windows 7 SP1 o Windows 8.1 Update para poder actualizar.
 | Pro        |        D        |                |            V             |           V          |           V           |
 | Education  |                 |                |                          |                      |           D           |
 | Enterprise |                 |                |                          |           V          |                       |
+
+## WINDOWS 8.1
+
+|                   | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
+| ----------------- | --------------- | -------------- | ------------------------ | -------------------- | --------------------- |
+| (Core)            |        V        |       V        |            V             |           V          |                       |
+| Conectado         |        V        |       V        |            V             |           V          |                       |
+| Pro               |        D        |       V        |            V             |           V          |           V           |
+| Pro Student       |        D        |       V        |            V             |           V          |           V           |
+| Pro WMC           |        D        |       V        |            V             |           V          |           V           |
+| Enterprise        |                 |                |                          |           V          |           V           |
+| Embedded Industry |                 |                |                          |                      |           V           |
+
+## WINDOWS 7
+
+|                   | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
+| ----------------- | --------------- | -------------- | ------------------------ | -------------------- | --------------------- |
+| Starter           |        V        |       V        |            V             |           V          |                       |
+| Home Basic        |        V        |       V        |            V             |           V          |                       |
+| Home Premium      |        V        |       V        |            V             |           V          |                       |
+| Profesional       |        D        |       V        |            V             |           V          |           V           |
+| Ultimate          |        D        |       V        |            V             |           V          |           V           |
+| Enterprise        |                 |                |                          |           V          |           V           |
 
 ## 3) Sobre el espacio recomendado por VirtualBox
 
