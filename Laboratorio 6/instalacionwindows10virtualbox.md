@@ -17,10 +17,12 @@ Debes tener Windows 7 SP1 o Windows 8.1 Update para poder actualizar.
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-|  | Windows 10 hHome | Windows 10 pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+|            | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
+| ---------- | --------------- | -------------- | ------------------------ | -------------------- | --------------------- |
+| Home       |                 |       V        |            V             |           V          |                       |
+| Pro        |        D        |                |            V             |           V          |           V           |
+| Education  |                 |                |                          |                      |           D           |
+| Enterprise |                 |                |                          |           V          |                       |
 
 ## 3) Sobre el espacio recomendado por VirtualBox
 
