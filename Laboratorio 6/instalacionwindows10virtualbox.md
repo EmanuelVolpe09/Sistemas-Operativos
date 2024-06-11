@@ -22,11 +22,12 @@ Windows 10
 
 D = degradación de edition; se mantienen los datos personales, pero se quitan las aplicaciones y la configuración.
 
-                 | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise |
-| Home |		                                ✔	                    ✔	                      ✔	
-| Pro |	                    D		                                  ✔	                      ✔	                      ✔
-| Education |					                                                                                            D
-| Enterprise |			                                                                     	✔	
+|                 | Windows 10 Home | Windows 10 Pro | Windows 10 Pro Education | Windows 10 Education | Windows 10 Enterprise|
+----------------------------------------------------------------------------------------------------------------------------- |
+| Home |		                                ✔	                    ✔	                      ✔	                                  |
+| Pro |	                    D		                                  ✔	                      ✔	                      ✔           |
+| Education |					                                                                                            D           |
+| Enterprise |			                                                                     	✔	                                  |
 
 Windows 8.1 
 
