@@ -16,6 +16,8 @@ Adjunta una captura de la salida del comando anterior y una respuesta razonada a
 ![image](https://github.com/user-attachments/assets/2cf59dfa-c97d-4d34-b4ac-5fdbe3056129)
 Busqué en internet y no encontré nada, solo algo sobre import-module cmdlet. En mi PowerShell no funciona ni /import ni import a secas.
 ![image](https://github.com/user-attachments/assets/a0e1dfc1-5b21-4679-9cc4-2c6f2595cc88)
+![image](https://github.com/user-attachments/assets/103b8dd2-b84b-4acf-b7b8-29a67d6df27d)
+
 
 
 \newpage 
