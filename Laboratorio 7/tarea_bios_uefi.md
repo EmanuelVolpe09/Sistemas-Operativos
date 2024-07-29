@@ -26,3 +26,7 @@ No existe ningún fichero, y además ni con Super Usuario se puede acceder a los
 ## Ejercicio 4
 
 Obtener información de cual es la temperatura del Microprocesador en tu BIOS/UEFI. Adjunta una captura/foto.
+
+
+![Imagen de WhatsApp 2024-07-29 a las 17 57 43_d899aca3](https://github.com/user-attachments/assets/900ea685-b377-440e-a8e6-a15d55ef97f9)
+![Imagen de WhatsApp 2024-07-29 a las 17 57 42_537b7060](https://github.com/user-attachments/assets/039631b9-e42a-4b85-aba2-76deba8ac07b)
