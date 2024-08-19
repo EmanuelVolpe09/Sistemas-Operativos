@@ -12,6 +12,8 @@ líneas:
 Write-Host "Hola Mundo"
 ```
 
+![image](https://github.com/user-attachments/assets/d54a8c80-f059-4512-b40c-623e80e0ef33)
+
 Guardar el script y lo ejecutaremos con la orden:
 
 `.\holaMundo.ps1`
@@ -19,3 +21,5 @@ Guardar el script y lo ejecutaremos con la orden:
 donde *holaMundo.ps1* es el nombre que se le ha dado al script.
 
 Adjuntad el script a la entrega de la tarea.
+
+https://www.mediafire.com/file/whsd2t7sgbpspba/holaMundo.ps1/file
