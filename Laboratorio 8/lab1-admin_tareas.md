@@ -44,7 +44,7 @@ Necesitamos obtener el nombre y la descripción de una serie de programas que po
 | Explorador de ficheros  | explorer.exe          | Explorador de Windows |
 | Paint 3D                | PaintStudio.View.exe  | PaintStudio.View      |
 | Solitario               | Solitaire.exe         | Solitaire             |
-| Tienda Microsoft        | N/A                   | N/A                   |
+| Tienda Microsoft        | WinStore.App.exe      | Store                 |
 | Fotos                   | PhotosApp.exe         | PhotosApp             |
 
 Tienda Microsoft no se puede acceder.
