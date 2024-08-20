@@ -7,7 +7,9 @@ directamente desde un símbolo del sistema.
 En la realización del tutorial voy a utilizar una máquina virtual box con un disco virtual de
 3GB.
 
+
 Para empezar, pulsamos las teclas WIN+R y buscamos “diskpart.exe“.
+
 
 Listaremos los discos disponibles utilizando el comando “list disk“.
 
@@ -86,3 +88,7 @@ anteriormente seleccionada.
 
 Conclusión
 Ya tenemos nuestras particiones creadas en el nuevo disco duro de la máquina.
+
+# Capturas: https://www.mediafire.com/file/i6n49d0jagy9n8a/Pasos.rar/file (no me deja publicarlas en GitHub por el internet)
+
+## PD: La partición de Disco local (M:) no deja cambiarle el nombre a MÚSICA, ni formateándola ni cambiándole el nombre desde el Explorador de Archivos. Y la de Probando se llamaba Documentos pero le cambié el nombre mientras la formateaba.
