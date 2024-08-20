@@ -1,9 +1,12 @@
 DiskPart es un intérprete de comandos de modo de texto que permite administrar objetos
 (discos, particiones, volúmenes o discos duros virtuales) mediante el uso de scripts o
 directamente desde un símbolo del sistema.
+
 # Particionado
+
 En la realización del tutorial voy a utilizar una máquina virtual box con un disco virtual de
 3GB.
+
 Para empezar, pulsamos las teclas WIN+R y buscamos “diskpart.exe“.
 
 Listaremos los discos disponibles utilizando el comando “list disk“.
