@@ -9,5 +9,5 @@
 ### 8. ¿Cuáles son los tipos de particiones en un disco duro con MBR?
 ### 9. ¿Cuál es la principal diferencia entre particiones primarias y extendidas?
 ### 10. Compare el número máximo de particiones en discos MBR y GPT.
-## 11. ¿Cuál es el tamaño máximo de volúmenes admitido por los estilos MBR y GPT?
+### 11. ¿Cuál es el tamaño máximo de volúmenes admitido por los estilos MBR y GPT?
 
