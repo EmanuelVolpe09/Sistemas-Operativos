@@ -3,11 +3,13 @@ Tutorial particiones en Linux
 discos fijos en su sistema
 Respuesta:
 
+![image](https://github.com/user-attachments/assets/1dfcbdbd-b098-4304-8920-602d5b781eba)
 
 
 2. Cree una partición primaria de 2GB en sdb
 Respuesta:
 
+![image](https://github.com/user-attachments/assets/e5ba9e2b-9b64-44dc-a100-38a58b9bd340)
 
 
 Debe quedar así
