@@ -11,6 +11,7 @@ Respuesta:
 Respuesta:
 
 ![image](https://github.com/user-attachments/assets/b847ede6-e936-4017-9454-ff297c2c99ae)
+![image](https://github.com/user-attachments/assets/b3f8cd93-f735-4aef-8979-5769e125fe99)
 
 
 
@@ -20,7 +21,19 @@ Debe quedar así
 partición extendida de 4GB, dentro dos particiones lógicas
 de 2GB
 
+![image](https://github.com/user-attachments/assets/a3663fa2-b60c-4135-9946-fe653d675a2a)
+---
+![image](https://github.com/user-attachments/assets/2be56299-60d6-49b5-9403-c5de7a220850)
+---
+![image](https://github.com/user-attachments/assets/ddc3d3b8-3fbc-4016-a57a-8f65e0fe5f2e)
+---
+![image](https://github.com/user-attachments/assets/fe0072a9-7160-4dc1-82de-f0453ad9f19e)
+---
+
 Debe quedar así
+
+![image](https://github.com/user-attachments/assets/5b22c69a-50c4-4396-a593-ad437dd8f589)
+
 
 4. Asignar un tipo de archivo a las particiones
 sdb5 ntfs código 7
