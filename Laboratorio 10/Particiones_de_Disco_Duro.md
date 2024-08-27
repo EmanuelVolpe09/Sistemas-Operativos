@@ -12,9 +12,17 @@
 ### 5. ¿Cómo interpreta un sistema operativo las particiones en un disco duro?
 - 
 ### 6. Describa el esquema de partición MBR.
+- Master Boot Record (MBR)
+  Estándar antiguo de partición de disco duro, que está dejando de ser compatible con algunos sistemas operativos. Compatible con BIOS
 ### 7. Describa el esquema de partición GPT.
+- Tabla de partición GUID (GPT)
+  Estándar moderno de partición de disco duro, que tiene compatibilidad con los sistemas operativos modernos. La ventaja de GPT es el enorme tamaño de la partición, el número de particiones y la capacidad de recuperación. Compatible con UEFI
 ### 8. ¿Cuáles son los tipos de particiones en un disco duro con MBR?
+- Las particiones pueden clasificarse como particiones primarias y particiones extendidas en un disco MBR.
 ### 9. ¿Cuál es la principal diferencia entre particiones primarias y extendidas?
+- La partición primaria es una partición que el ordenador reconoce nada más arrancar. Por tanto, acá se suele instalar el sistema operativo. Como máximo, puede haber 4 particiones primarias en un disco duro.
+- En cambio, la partición extendida no es detectada por la BIOS y, por ende, no se puede instalar un sistema operativo en ella. La finalidad de esta partición es la de almacenar datos, aunque sólo podremos tener una de estas particiones.
 ### 10. Compare el número máximo de particiones en discos MBR y GPT.
+- MBR es de hasta 4 particiones primarias (o tres particiones primarias, una partición extendida y unidades lógicas ilimitadas), y GPT es de 128 particiones primarias.
 ### 11. ¿Cuál es el tamaño máximo de volúmenes admitido por los estilos MBR y GPT?
-
+- MBR es de 2 terabytes, y GPT de 18 exabytes.
