@@ -10,7 +10,7 @@
 - FAT32: Sistema anterior al NTFS de Windows. Tiene limitaciones como no poder trabajar con archivos de más de 4 gb, o crear particiones de más de 2 tb.
 - exFAT: Sistema también de Microsoft, pero dedicado a las unidades extraíbles como Pendrives. Es como la remasterización de FAT32, y tiene más soporte que NTFS.
 ### 5. ¿Cómo interpreta un sistema operativo las particiones en un disco duro?
-- 
+- Lo interpreta y lo reconoce con su formato, ya que cada partición puede tener un formato específico. Al reconocerlas se les asigna una unidad, y se reconoce también si tienen un medio de booteo, como un Pendrive booteable, una ISO en un DVD o el propio S.O. instalado en un disco duro.
 ### 6. Describa el esquema de partición MBR.
 - Master Boot Record (MBR)
   Estándar antiguo de partición de disco duro, que está dejando de ser compatible con algunos sistemas operativos. Compatible con BIOS
