@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/52d469b8-6b6e-465f-a920-77a76656aa76)Tutorial particiones en Linux
+Tutorial particiones en Linux
 1. Use fdisk -l para buscar el tamaño total de todos los
 discos fijos en su sistema
 Respuesta:
