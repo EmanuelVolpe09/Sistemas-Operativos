@@ -3,7 +3,8 @@ Tutorial particiones en Linux
 discos fijos en su sistema
 Respuesta:
 
-![image](https://github.com/user-attachments/assets/f8ee4475-accc-4645-b7b0-004e242f61ce)
+![image](https://github.com/user-attachments/assets/dcbe3a1c-859a-4d62-bd91-76a61c2acc7f)
+
 
 
 
