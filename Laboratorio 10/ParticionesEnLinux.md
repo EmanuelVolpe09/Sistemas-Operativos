@@ -39,25 +39,39 @@ Debe quedar así
 sdb5 ntfs código 7
 sdb6 fat32 código b
 
-5. Guardar w y salir
+![image](https://github.com/user-attachments/assets/69cb05e8-0a76-4667-b995-01528e4f63f9)
+![image](https://github.com/user-attachments/assets/7b4d76b2-ac83-4799-b8e1-b88b0e00d9f7)
 
-6. Formatear las particiones
+
+6. Guardar w y salir
+
+![image](https://github.com/user-attachments/assets/28286c91-56d9-42e9-9e98-3d70c21e03aa)
+
+8. Formatear las particiones
 sdb1 ext4 Label datos-ext4
 sdb2 ext3 Label datos-ext3
 sdb5 ntfs Label datos-ntfs
 sdb6 fat32 Label datos-fat32
 
-7. Establecer las etiquetas a las particiones
+![image](https://github.com/user-attachments/assets/400d1bdd-7a23-44e3-bf73-63f606231aed)
+![image](https://github.com/user-attachments/assets/89a5e139-4c6c-4685-9a98-ac9f927f633a)
+
+
+10. Establecer las etiquetas a las particiones
  e2label /dev/sdb1 datos-ext4
  e2label /dev/sdb2 datos-ext3
  ntfslabel /dev/sdb5 datos-ntfs
  fatlabel /dev/sdb6 datos-fat
 En modo grafico debe verse así
 
-8. Montar las particiones
+![image](https://github.com/user-attachments/assets/d2b4e783-3234-4de7-b05d-1ae64857af70)
+![image](https://github.com/user-attachments/assets/ebd0dd42-9e80-4169-8b0d-ceeb1cb5f723)
+
+
+11. Montar las particiones
 Crear los directorios
 
-9. Montar las particiones
+12. Montar las particiones
 
 Damos permisos  chmod 777 -R /unidades
 
