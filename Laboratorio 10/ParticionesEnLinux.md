@@ -1,4 +1,4 @@
-Tutorial particiones en Linux
+![image](https://github.com/user-attachments/assets/52d469b8-6b6e-465f-a920-77a76656aa76)Tutorial particiones en Linux
 1. Use fdisk -l para buscar el tamaño total de todos los
 discos fijos en su sistema
 Respuesta:
@@ -66,13 +66,25 @@ En modo grafico debe verse así
 
 ![image](https://github.com/user-attachments/assets/d2b4e783-3234-4de7-b05d-1ae64857af70)
 ![image](https://github.com/user-attachments/assets/ebd0dd42-9e80-4169-8b0d-ceeb1cb5f723)
+![image](https://github.com/user-attachments/assets/0aa8ba0f-32ca-4f89-9cfd-25464ad7e3d8)
 
 
 11. Montar las particiones
 Crear los directorios
 
-12. Montar las particiones
+![image](https://github.com/user-attachments/assets/bcf3555c-1422-4347-8318-6f242e86d01a)
+
+
+13. Montar las particiones
+
+![image](https://github.com/user-attachments/assets/a852a5a9-6d1f-4889-b829-3289598413b1)
+
 
 Damos permisos  chmod 777 -R /unidades
 
 10. Con el comando mount vemos todas las unidades montadas
+
+![image](https://github.com/user-attachments/assets/1a4333a5-8fd7-41c6-b277-75a28561e893)
+![image](https://github.com/user-attachments/assets/d122e47a-b39a-446f-91d0-0aa8b24973f8)
+![image](https://github.com/user-attachments/assets/b0732584-2f54-4587-b04a-09f2e84450a1)
+
