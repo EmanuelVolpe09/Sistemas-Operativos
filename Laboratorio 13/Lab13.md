@@ -19,8 +19,9 @@ Clonar una máquina virtual para crear una copia exacta.
 
 ### Informe esperado:
 - Captura de pantalla de ambas máquinas corriendo de forma simultánea.
+![image](https://github.com/user-attachments/assets/bfd97005-02bb-4258-8eaa-ff6b07127335)
 - Comandos que verifiquen que tienen configuraciones de red y hostname diferentes.
-
+![image](https://github.com/user-attachments/assets/3e4ba52f-b593-4e22-9492-85dc05b30c41)
 ---
 
 # Laboratorio 2: Uso de Guest Additions
@@ -45,5 +46,6 @@ Instalar y utilizar Guest Additions para mejorar la integración entre el sistem
 
 ### Informe esperado:
 - Capturas de pantalla del cambio de tamaño dinámico de la ventana.
+
 - Una demostración de arrastrar un archivo entre el host y la VM.
 
