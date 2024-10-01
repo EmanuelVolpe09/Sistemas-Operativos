@@ -46,6 +46,10 @@ Instalar y utilizar Guest Additions para mejorar la integración entre el sistem
 
 ### Informe esperado:
 - Capturas de pantalla del cambio de tamaño dinámico de la ventana.
-
+![image](https://github.com/user-attachments/assets/9690afb6-8a26-47f5-a6ef-b640c186088b)
 - Una demostración de arrastrar un archivo entre el host y la VM.
+![image](https://github.com/user-attachments/assets/3b13e193-6ccb-4486-afd0-b17f2f1664b2)
+![image](https://github.com/user-attachments/assets/f46e0fdd-f25a-4d49-8879-3120521f0a13)
+![image](https://github.com/user-attachments/assets/9cd199ad-6063-48fe-8f9c-3154c364a95e)
+
 
